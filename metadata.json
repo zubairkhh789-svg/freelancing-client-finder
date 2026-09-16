@@ -1,0 +1,6 @@
+{
+  "name": "Freelance Client Finder",
+  "description": "A modern platform for freelancers to analyze skills, generate client-winning proposals, optimize profiles, calculate pricing guidelines, and plan portfolios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
